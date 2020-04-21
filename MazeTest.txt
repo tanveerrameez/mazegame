@@ -1,16 +1,7 @@
-﻿Maze Test
+Maze Game
 ---------
 
-
-We recognize that you may have questions about these requirements. For the purpose of this test, please make an assumption about the answer and note your assumptions in a readme.txt submitted with your solution. You should be ready to explain any assumptions and technical choices you have made during later interview stages.
-
-There is no stated time limit but allow at least half a day. The important thing is to arrive at a solution that you are satisfied with and comfortable discussing with others.
-
-The code must be representative of what you would produce “on the job”, by that we mean it must be clear, maintainable bug free and efficient.
-
-The zipped project is for intellij and uses maven; you should feel free to use any other tools you are more comfortable with.  There are 2 classes in it and you should feel free to change these in any way you see fit, including deleting them and starting again.
-
-The test is based on exploring any arbitrary maze (one is provided).
+The exercise is based on exploring any arbitrary maze (one is provided).
 
 
 
