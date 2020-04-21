@@ -1,0 +1,8 @@
+1. We read the maze from a file Maze1.txt
+Assumptions of the file:
+a. Assuming each line represents a maze line
+b. The maze lines are of same length
+
+Limitation:
+1. boundary conditions were not checked due to lack of time. 
+Ideally the movement cannot go beyond the maze boundaries and an exception thrown
